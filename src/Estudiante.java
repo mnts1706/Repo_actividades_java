@@ -1,4 +1,4 @@
- /* Representa un estudiante registrado dentro del sistema académico.*/
+ /** Representa un estudiante registrado dentro del sistema académico.*/
     public class Estudiante {
      /**
       * Determina si el estudiante aprueba según su nota final.
